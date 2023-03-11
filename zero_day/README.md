@@ -1,2 +1,2 @@
-**Strong** __Vagrant__
+**Vagrant**
 How to code in your local computer
